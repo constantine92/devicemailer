@@ -451,3 +451,70 @@ Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0
 Processing by PagesController#contact as HTML
   Rendered pages/contact.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 36ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.88.167.1 at 2016-10-19 06:13:41 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 4122ms (Views: 4108.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-3d2b1085db6945c1ed2965f6b9561bfd4c3d4bfd17596a955c1ce8b4068f6b3f.css?body=1" for 192.88.167.1 at 2016-10-19 06:13:45 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-6ad2488465135ab731a045a8ebbe3ea2fc501aed286042496eda1664fdd07ba9.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-126ac9bf0e7f2d8568f8da3a00fd5f0fac6eae0946331003370161fbf8d7975e.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-742145c5bb847aafdadc6e339be795628f8bc25f177e851f03a8c42278eb0312.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-3e78617ade5663314b7ee0ea10375a5b34d59ffbade44939e3f2a4e4ef2019b3.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-5bf7078b682f8b131332eefa46b45fa5eff2eca745fc0d03e2991450888f7c28.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-6d6f1a7fc5c8aabf3547fa1b794fab6268f54bc55ad815e55873c71f52513517.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-e47323f363ceb3dc0bdbce05e36e709ed428e339833a41140a85cb0af24b8127.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-2eb697f62b587bb786ff940d82dd4be88cdeeaf13ca128e3da3850c5fcaec301.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-969f3c5f48cdf1e439c7fa1154c13b948715f5c689f87837c0b64521d3b46ef6.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-0aa93860b59fe7393f1dd490f54b3cb994f9d6155adffce034d4e14ae361b041.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-561cca1cbaf67474e01e9536f106bad541594860a6df997004591c1c1957a147.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:46 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-05afb177e08f98997ccfc84fa08a215e4b27d48d5fe4d049080675e9dffd8199.js?body=1" for 192.88.167.1 at 2016-10-19 06:13:47 +0000
+Cannot render console from 192.88.167.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
