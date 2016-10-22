@@ -93,7 +93,7 @@ GEM
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
     orm_adapter (0.5.0)
-    pg (0.14.1)
+    pg (0.19.0)
     pkg-config (1.1.7)
     rack (1.6.4)
     rack-test (0.6.3)
@@ -184,7 +184,7 @@ DEPENDENCIES
   font-awesome-sass (~> 4.6.2)
   jbuilder (~> 2.0)
   jquery-rails
-  pg (~> 0.14.1)
+  pg (~> 0.19.0)
   rails (= 4.2.5)
   rails_12factor (~> 0.0.3)
   sass-rails (>= 3.2)
