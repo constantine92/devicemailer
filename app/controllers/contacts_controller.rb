@@ -12,7 +12,7 @@ class ContactsController < ApplicationController
                 ContactMailer.contact_email(name, email, message).deliver
                 flash[:success] = "Thanks for the message, we will be in touch soon."
             else
-                redirect_to root_path
+                redirect_to pages_contact_url
                 flash[:danger] = "Opps, there was a problem! Please fill out all the fields."
             end
         end
