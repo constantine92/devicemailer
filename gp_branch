@@ -1,5 +1,5 @@
 git add -A
-git commit -m "set up validation"
-git push origin validation
+git commit -m "set up comment model"
+git push origin comments
 git checkout master
-git merge validation
+git merge comments
