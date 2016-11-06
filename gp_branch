@@ -1,5 +1,3 @@
 git add -A
-git commit -m "set up comment model"
+git commit -m "set up comment controller and view partials"
 git push origin comments
-git checkout master
-git merge comments
